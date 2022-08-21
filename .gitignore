@@ -1,0 +1,9 @@
+artifacts
+cache
+node_modules
+.env
+deployments
+coverage
+coverage.json
+typechain
+gas-report.txt
